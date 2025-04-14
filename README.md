@@ -42,13 +42,14 @@ The **Nepali Movie Recommendation System** allows users to select a movie from a
 
 ---
 
-## Disclaimer
-
-This project was created for educational purposes. The data used in the Nepali Movie Recommendation System is limited, as not all movie details could be fetched during the web scraping process. Therefore, the recommendations may not cover the full range of Nepali movies. The system is intended for learning and demonstration only.
-
-
 ## How it Works
 
 1. Select a movie from the dropdown list.
 2. Fetch the similarity scores for that movie from `similarity.pkl`.
 3. Display the **top 3 most similar movies** as recommendations.
+
+---
+
+## Disclaimer
+
+**This project was created for educational purposes. The data used in the Nepali Movie Recommendation System is limited, as not all movie details could be fetched during the web scraping process. Therefore, the recommendations may not cover the full range of Nepali movies. The system is intended for learning and demonstration only.**
