@@ -22,6 +22,11 @@ The **Nepali Movie Recommendation System** allows users to select a movie from a
 
 ---
 
+## Live Demo
+Check out the live Streamlit app [here]([https://your-app-link.streamlit.app](https://nepali-movie-recommender-ltqv2whbqqdssvhhpwvfmh.streamlit.app/))
+
+---
+
 ## Getting Started
 
 1. Install dependencies:
